@@ -3,7 +3,7 @@ import pandas as pd
 import google.generativeai as genai
 
 # --- Config ---
-API_KEY = "AIzaSyC4GFljfImdJ39uzkyj2vLZqbjqZ3fNGjg"
+API_KEY = "your_api_key"
 genai.configure(api_key=API_KEY)
 
 # --- Load Data ---
