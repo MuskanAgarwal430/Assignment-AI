@@ -37,7 +37,7 @@
 ---
 
 ###  Question 4:
-**Which fulfillment statuses are most associated with negative feedback?**  
+**Which fulfillment statuses are most associated with negative feedback**  
 ** Answer:**  
 | Fulfillment Status | # of Negative Reviews |
 |---------------------|------------------------|
